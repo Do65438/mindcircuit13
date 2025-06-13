@@ -17,7 +17,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
-		    <url>http://100.25.155.112:8081/repository/mc-snapshot/</url>
+		    <url>http://44.203.29.62:8081/repository/mc-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
