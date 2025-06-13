@@ -10,7 +10,7 @@
 
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://3.83.18.215:9000/</sonar.host.url>
+		<sonar.host.url>http://3.83.18.2/</sonar.host.url>
 
 	</properties>
 
@@ -22,7 +22,7 @@
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://ec2-3-87-3-6.compute-1.amazonaws.com:8081/repository/mc-artifacts/</url>
+		    <url>http://44.203.29.62:8081/repository/mc-artifacts/</url>
 		</repository>
   	</distributionManagement>
 
