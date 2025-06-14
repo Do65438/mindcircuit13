@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: davathupavan/my-java-app:v1.0.13
+        image: davathupavan/my-java-app:v1.0.14
         ports:
         - containerPort: 8080
 
